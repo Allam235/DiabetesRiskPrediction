@@ -112,10 +112,3 @@ This instrumentation was used to identify and correct instability such as explod
 
 * Python
 * NumPy
-* Optional GPU acceleration via CuPy
-
----
-
-## Disclaimer
-
-This project is for **educational and research purposes only** and is not intended for clinical use or medical decision-making.
